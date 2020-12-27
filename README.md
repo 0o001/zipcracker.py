@@ -1,6 +1,4 @@
 # zipcracker.py
 zip password cracker
 
-zipcracker.py -f test.zip -d wordlist.txt
-
-[-] Password not found.
+![Screenshot](https://github.com/mustafauzun0/zipcracker.py/blob/master/screenshots/zipcracker.png)
